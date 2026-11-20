@@ -6,7 +6,7 @@ Yunhe Gao, Ashwin Kumar, Jiaming Liu, Chong Wang, Maya Varma, Fuying Wang, Stefa
 
 Center for Artificial Intelligence in Medicine and Imaging (AIMI), Stanford University
 
-[[Paper (arXiv)]](https://arxiv.org/abs/XXXX.XXXXX) · [[NeurIPS page]](#) · [[BibTeX]](#citation)
+[[Paper (arXiv)]](https://arxiv.org/abs/2611.24016) · [[NeurIPS page]](https://neurips.cc/virtual/2026/loc/atlanta/poster/148888) · [[BibTeX]](#citation)
 
 ---
 
