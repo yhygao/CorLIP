@@ -67,6 +67,9 @@ Coming soon.
   title     = {Rethinking Contrastive Targets in Radiology Language-Image Pretraining},
   author    = {Gao, Yunhe and Kumar, Ashwin and Liu, Jiaming and Wang, Chong and Varma, Maya and Wang, Fuying and Moroianu, Stefania L. and Fay, Louisa and Gatidis, Sergios and Chaudhari, Akshay S. and Langlotz, Curtis},
   booktitle = {Advances in Neural Information Processing Systems},
-  year      = {2026}
+  year      = {2026},
+  eprint    = {2611.24016},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.CV}
 }
 ```
